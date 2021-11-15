@@ -1,3 +1,3 @@
-# Bienvenid@
-## Me presento:
-Mi nombre es Osiel Rubio Suárez, soy estudiante de la Facultad de Informática de la UAQ.
+
+## Oiel Alejandro Rubio Suárez
+Mi nombre es Osiel Rubio Suárez, estudio ingeniería de Software en la Universidad Autónoma de Querétaro.
