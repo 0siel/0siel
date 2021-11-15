@@ -1,3 +1,3 @@
 
 ## Oiel Alejandro Rubio Suárez
-Mi nombre es Osiel Rubio Suárez, estudio ingeniería de Software en la Universidad Autónoma de Querétaro.
+Mi nombre es Osiel, estudio ingeniería de Software en la Universidad Autónoma de Querétaro.
